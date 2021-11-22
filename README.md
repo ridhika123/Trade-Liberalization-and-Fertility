@@ -4,7 +4,7 @@
 This paper examines the impact of the ASEAN Free Trade Agreement on Indonesia’s fertility rates. It also explores the channels through which trade and fertility are linked. The employment channel finds that a trade-induced increase in women’s labor force participation increases opportunity cost of having children. The income channel is based on a positive association between availability of resources and producing children. This paper uses an OLS and a gradual Difference-in-Differences model to conclude that trade liberalization has a negative effect on fertility rates in Indonesia. The theoretical mechanism was ambiguous, although the employment channel is promising.
 
 ## Data
-* Individual female data from Demographic and Health Surveys (DHS) in Indonesia across 1991, 1994, 1997, 2002, 2007, 2012 and 2017.
+* Individual female data from Demographic and Health Surveys (DHS) in Indonesia across 1991, 1994, 1997, 2002, 2007, 2012 and 2017 found [here](https://drive.google.com/drive/folders/1DCi5IfZcqKa2f4z12aXn2eUx5UGV9qsJ?usp=sharing).
 * Employment composition data from Statistics Indonesia. Cleaned data is [here](https://github.com/ridhika123/Trade-Liberalization-and-Fertility/blob/main/exposure_stata.dta).
 * Tariff data from World Integrated Trade Solutions. Cleaned data is [here](https://github.com/ridhika123/Trade-Liberalization-and-Fertility/blob/main/tariff_data_cleaned.csv)
 
